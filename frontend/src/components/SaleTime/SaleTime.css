@@ -1,0 +1,19 @@
+.clock p{
+    color: #ff5252;
+}
+
+.time span{
+    padding: 10px;
+    border: 1px solid #e5e5e5;
+    border-radius: 5px;
+    margin: 0px 15px;
+}
+
+.time p{
+    margin-top: 10px;
+    margin-left: 18px;
+    color: black;
+}
+.timer{
+    border-bottom: 1px solid #e5e5e5;
+}

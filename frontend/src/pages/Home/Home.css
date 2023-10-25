@@ -1,0 +1,273 @@
+
+.main-banner-content {
+    top: 30%;
+    left: 10%; 
+}
+
+.main-banner-content h4 {
+    color: black;
+    font-size: 22px;
+    font-weight: 500;
+    margin-bottom: 18px;
+    color: white;
+}
+
+.main-banner-content p {
+    font-size: 20px;
+    margin-bottom: 5px;
+    font-weight: 400;
+    text-align: center;
+    color: white;
+}
+
+.banner-top {
+    background-color: #faf5f5;
+}
+.banner-top img{
+    transition: 0.9s;
+    cursor: pointer;
+}
+.banner-top img:hover{
+  transform: scale(1.03,1.03);
+}
+
+.main-banner-content button {
+    background-color: #ff5252;
+    color: white;
+    border: 0px;
+    padding: 10px 25px;
+    border-radius: 5px;
+    font-weight: 500;
+    margin-left: 33%;
+}
+
+.main-banner-content button:hover {
+    background-color: black;
+}
+
+.small-banner-content {
+    top: 35%;
+    left: 30px;
+}
+
+.small-banner {
+    width: 47%;
+}
+
+.small-banner-content h4 {
+    font-size: 18px;
+}
+
+.small-banner-content h5 {
+    color: #bf4800;
+    font-size: 15px;
+}
+
+.small-banner-content p {
+    color: #ff5252;
+    margin-bottom: 3px;
+}
+.small-banner-content a{
+    color: black;
+}
+.small-banner-content a:hover{
+    text-decoration: none;
+}
+.lowbanner img{
+    transition: transform .5s;
+}
+.lowbanner img:hover{
+    transform: scale(1.05,1.05);
+}
+.lowbanner-content {
+    top: 25%;
+    left: 55%;
+}
+
+.lowbanner-content h4 {
+    font-size: 25px;
+}
+
+.lowbanner-content p {
+    color: #ff5252;
+    align-items: start;
+    font-size: 20px;
+    margin-bottom: 3px;
+}
+.lowbanner-content a{
+    color: black;
+}
+.lowbanner-content a:hover{
+    text-decoration: none;
+}
+
+.list ul {
+    list-style: none;
+}
+
+.list ul li {
+    font-size: 23px;
+    font-weight: 500;
+}
+
+.card {
+    border: 2px solid #e5e5e5;
+}
+.card:hover .short{
+   top: 8%;
+    visibility: visible;
+}
+.card-body a {
+    font-size: 14px;
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+}
+
+.card-text {
+    color: #ff5252;
+}
+
+.rating {
+    color: #F1C93B;
+}
+
+.short {
+    visibility: hidden;
+    top: 2%;
+    left: 81%;
+    font-size: 20px;
+    transition: .5s;
+}
+
+
+.short span {
+    border: 1.5px solid #B4B4B3;
+    border-radius: 50%;
+    padding: 3px 6px;
+    margin-bottom: 4px;
+    border-style: solid;
+}
+
+.short span:hover {
+    background-color: #ff5252;
+    color: #fff;
+}
+
+.banners {
+    margin-top: 5%;
+    margin-bottom: 3%;
+}
+
+.banner-content {
+    top: 5%;
+    color: #fff;
+    left: 25%;
+}
+
+.watch {
+    transition: transform .9s;
+}
+
+.watch:hover {
+    transform: scale(1.05, 1);
+}
+.ad{
+    margin: 5% 3%;
+    margin-bottom: 3%;
+}
+.ad-banner-content{
+    top: 20%;
+    left: 7%;
+}
+.ad-banner-content h4{
+    font-size: 30px;
+    margin-bottom: 8%;
+}
+.ad-banner-content p{
+    font-size: 20px;
+    font-weight: 400;
+}
+.ad-banner-content a {
+    text-decoration: none;
+    background-color: #ff5252;
+    color: white;
+    border: 0px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: 500;
+
+}
+.ad-banner-content a:hover{
+    background-color: black;
+}
+.ad-banner img{
+    transition: transform .9s;
+}
+.ad-banner img:hover{
+    transform: scale(1.05,1.05);
+}
+.brand-banner{
+    margin: 0 5%;
+    padding-left: 1%;
+    padding-bottom: 2%;
+    border-bottom: 2px solid #E5E5E5;
+}
+
+.client-detail{
+    border: 2px solid #e5e5e5;
+    border-radius: 5px;
+}
+.client-detail img{
+    border-radius: 50%;
+}
+.client{
+    margin-top: 5%;
+}
+.inner-content{
+    margin-left: 5%;
+    margin-top: 3%;
+}
+.top-content p{
+    color:  #919191;
+}
+.lower-content p{
+    font-size: 1rem;
+    color: #696969;
+    padding: 5px;
+    text-align: start;
+}
+.blog-content h5{
+    font-size: 1.2rem;
+    font-weight: 500;
+   letter-spacing: .2px;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    line-height: 2.1rem;
+}
+.blog-content p{
+    color: #666666;
+    font-size: 15px;
+    overflow: hidden;
+   display: -webkit-box;
+   -webkit-line-clamp: 2;
+   -webkit-box-orient: vertical;
+   letter-spacing: .2px;
+}
+.blog-content a{
+    color: #ff5252;
+}
+.blog-content h6{
+    font-size: 1rem;
+    color: #ff5252;
+    padding-top: 7%;
+    letter-spacing: 1px;
+    font-weight: 500;
+}
+.image-gallery{
+    padding: 5% 3%;
+    background-color: #faf5f5;
+    padding-left: 5%;
+}

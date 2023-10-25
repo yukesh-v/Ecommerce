@@ -1,0 +1,13 @@
+
+.collection-img-content{
+       top: 80%;
+       left: 20%;
+       font-weight: 500;
+}
+.collection-content img{
+   cursor: pointer;
+   transition: 0.5s;
+}
+.collection-content img:hover{
+   transform: scale(1.15,1.15);
+}

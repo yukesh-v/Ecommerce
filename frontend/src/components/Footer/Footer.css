@@ -1,0 +1,99 @@
+.service {
+  margin-top: 6%;
+  padding-bottom: 3%;
+  border-bottom: 2px solid #E5E5E5;
+}
+.footer-details{
+  border-bottom: 2px solid #E5E5E5;
+}
+.icones {
+  font-size: 50px;
+  text-align: center;
+  cursor: pointer;
+}
+
+.icones:hover {
+  color: #ff5252;
+}
+
+.footer-content p {
+  line-height: 1.8rem;
+}
+
+.footer-content h6 {
+  font-size: 20px;
+  font-weight: 500;
+  color: #ff5252;
+}
+
+.ico span {
+  font-size: 35px;
+  color: #ff5252;
+}
+
+.ico p {
+  margin-top: 6px;
+  font-size: 18px;
+
+}
+
+.footer-content ul {
+  list-style-type: none;
+  padding: 0;
+  display: inline-block;
+}
+.footer-content a{
+  color: black;
+  text-decoration: none;
+}
+.footer-content ul li {
+  line-height: 2.3rem;
+  cursor: pointer;
+}
+
+.footer-content ul li:hover {
+  color: #ff5252;
+}
+
+.button {
+  color: #fff;
+  background-color: #ff5252;
+  padding: 12px 31px;
+  border-radius: 5px;
+  border-color: #ff5252;
+  border: 0px;
+}
+
+.inp {
+  height: 2.8rem;
+  width: 100%;
+  border: 1.6px solid #B4B4B3;
+  outline: none;
+
+}
+.foot span {
+
+  font-size: 25px;
+  margin-right: 10px;
+  cursor: pointer;
+
+}
+
+.foot span:hover {
+  color: #ff5252;
+}
+
+.foot p {
+  font-size: 16px;
+  margin-left: 33%;
+}
+
+.bankcard img {
+  width: 60px;
+  padding: 0.5rem;
+}
+
+.bankcard {
+  margin-left: 16%;
+
+}

@@ -1,0 +1,41 @@
+.title h4{
+    padding: 32px 30px;
+    background-color: #faf5f5;
+    margin-bottom: 6%;
+}
+.form{
+    margin-left: 25%;
+    margin-bottom: 8%;
+}
+form h4{
+    font-size: 23px;
+}
+form{
+    border: 1.6px solid #B4B4B3;
+    padding: 10%;
+}
+form input{
+    padding: 1.8%;
+    border-radius: 5px;
+    outline: none; 
+}
+form button{
+   background-color: #ff5252;
+   color: #fff;
+   border-radius: 5px;
+   letter-spacing: 0.5px;
+   border: 0px;
+   font-weight: 500;
+}
+form p{
+    font-size: 15px;
+    padding-left: 5rem;
+    cursor: pointer;
+    font-weight: 400;
+}
+form p :hover{
+    text-decoration: none;
+}
+form a{
+    font-size: 15px;
+}

@@ -1,0 +1,89 @@
+.cart {
+    padding: 2%;
+    background-color: #faf5f5;
+    margin-bottom: 3%;
+}
+.cart a {
+    color: black;
+    text-decoration: none;
+    font-size: 16px;
+    margin-right: 3%;
+}
+.cart-product{
+    border-top: 2.5px solid #faf5f5;
+
+}
+.cart-detail img{
+   width: 15%;
+   height: 80%;
+}
+.cart-product-detail{
+  padding: 2% 0 0 2%;
+}
+.cart-product-detail p{
+  color: #666666;
+  font-size: 15px;
+}
+.cart-product-detail .price{
+    color: #ff5252;
+}
+.cart-price{
+    margin-top: 25px;
+    border: 2.5px solid #faf5f5;
+}
+.quantity-count{
+    border: 1px solid rgb(177, 177, 177);
+}
+.quantity-count p{
+    cursor: pointer;
+}
+.delete-btn{
+    cursor: pointer;
+    padding: 28%;
+    font-size: 45px;
+    background-color: #ff5252;
+    color: white;
+    border-radius: 3px;
+    margin-left: 55%;
+    margin-top: 6%;
+}
+
+.total-price p{
+    color: #ff5252;
+}
+.special-instruction button{
+    background-color: #ff5252;
+    color: white;
+    font-size: 0.9rem;
+    letter-spacing: 0.5px;
+    font-weight: 500;
+    border: 0px;
+    border-radius: 5px;
+    padding: 3% 10%;
+}
+.sub-total span b{
+    color: #ff5252;
+}.sub-total span{
+    padding-left: 20%;
+}
+.sub-total{
+    text-align: end;
+}
+.sub-total p{
+  font-size: 13px;
+}
+.sub-total button{
+    background-color: #ff5252;
+    color: white;
+    font-size: 0.9rem;
+    letter-spacing: 0.5px;
+    font-weight: 500;
+    border: 0px;
+    border-radius: 5px;
+    padding: 4% 30%;
+}
+.sub-total button:hover{
+
+    background-color: black;
+    color: white;
+}

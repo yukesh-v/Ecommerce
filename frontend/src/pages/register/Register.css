@@ -1,0 +1,20 @@
+.form form input {
+    border: 1.5px solid #B4B4B3;
+    border-radius: 0px;
+    padding: 1.8%;
+   
+}
+
+form a:hover {
+    text-decoration: none;
+}
+
+form a {
+    color: black;
+}
+
+.hide{
+    left: 83%;
+    top: 15%;
+    font-size: 18px;
+}
